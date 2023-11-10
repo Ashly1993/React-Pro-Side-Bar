@@ -1,0 +1,18 @@
+.app {
+  width: 100%;
+  display: flex;
+}
+.mainPageComponents {
+  width: calc(100% - 240px);
+}
+.btn-toggle {
+  cursor: pointer;
+  display: none;
+}
+
+
+// @media (max-width: $breakpoint-md) {
+//   .btn-toggle {
+//     display: flex;
+//   }
+// }
